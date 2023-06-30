@@ -1,7 +1,5 @@
 # Hi there, I'm Luu Nhat Thanh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm a Game Developer Students
 
 - 👨‍💻 Currently, I am studying Information Technology at the University of Transport and Communications (UTC2).
